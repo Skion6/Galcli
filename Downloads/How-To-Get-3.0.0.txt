@@ -1,7 +1,0 @@
-https://gitflic.ru/project/galacticclient/galactic-client/release/bf0eb2e7-184a-4387-8a70-83a00a89de2b/c4d06a7f-12c2-4d4a-a3b8-b8cf1a31084b/download
-
-Changelog:
-
-
-3.0.0 release with a bunch of new modules
-also since i ported all modules from wurst if u want anythign else ported  add it in suggestions

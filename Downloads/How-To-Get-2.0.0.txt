@@ -1,5 +1,0 @@
-https://gitflic.ru/project/galacticclient/galactic-client/release/9247e9a2-467c-4139-9361-796bd1fcdebe/fdda0b4e-6437-4465-ab3d-26fd7eb031a7/download
-
-ChangeLog: 
-
-2.0.0 with 25 more modules, a search bar and a slightly smaller gui to make space for the more categories
